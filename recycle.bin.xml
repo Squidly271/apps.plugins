@@ -4,6 +4,7 @@
 <PluginURL>https://github.com/dlandon/recycle.bin/raw/master/recycle.bin.plg</PluginURL>
 <PluginAuthor>dlandon</PluginAuthor>
 <Beta>False</Beta>
+<MinVer>6.1</MinVer>
 <Category>Tools:</Category>
 <Date>2015-12-18</Date>
 <Name>Recycle Bin</Name>

@@ -4,6 +4,7 @@
 <PluginURL>https://github.com/dlandon/open.files/raw/master/open.files.plg</PluginURL>
 <PluginAuthor>dlandon</PluginAuthor>
 <Beta>False</Beta>
+<MinVer>6.1</MinVer>
 <Category>Tools:System</Category>
 <Date>2015-12-18</Date>
 <Name>Open Files</Name>
