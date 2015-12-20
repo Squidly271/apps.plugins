@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Containers>
+<Plugin>True</Plugin>
+<PluginURL>https://github.com/dlandon/enhanced.log/raw/master/enhanced.log.plg</PluginURL>
+<PluginAuthor>dlandon</PluginAuthor>
+<Beta>True</Beta>
+<MinVer>6.1</MinVer>
+<Category>Tools:System</Category>
+<Date>2015-12-20</Date>
+<Name>Enhanced Log</Name>
+<Description>
+This plugin adds a log viewer that highlights lines with colors in the log that allows finding log events much easier.
+</Description>
+<Support>http://lime-technology.com/forum/index.php?topic=44813.0</Support>
+<Icon>https://github.com/dlandon/apps.plugins/raw/master/enhanced.log.png</Icon>
+</Containers>
