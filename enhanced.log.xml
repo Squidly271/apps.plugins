@@ -6,10 +6,10 @@
 <Beta>True</Beta>
 <MinVer>6.1</MinVer>
 <Category>Tools:System</Category>
-<Date>2015-12-20</Date>
-<Name>Enhanced Log</Name>
+<Date>2015-12-22</Date>
+<Name>Enhanced Log Viewer</Name>
 <Description>
-This plugin adds a log viewer that highlights lines with colors in the log that allows finding log events much easier.
+This plugin adds a webGui page to view the system log with highlighted lines.  You can enable or disable event highlighting and set your own colors for each event.  You can add your own search string to highlight in the log.
 </Description>
 <Support>http://lime-technology.com/forum/index.php?topic=44813.0</Support>
 <Icon>https://github.com/dlandon/apps.plugins/raw/master/enhanced.log.png</Icon>
