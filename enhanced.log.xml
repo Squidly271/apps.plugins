@@ -6,7 +6,7 @@
 <Beta>False</Beta>
 <MinVer>6.1</MinVer>
 <Category>Tools:System</Category>
-<Date>2016-01-04</Date>
+<Date>2016-01-16</Date>
 <Name>Enhanced Log Viewer</Name>
 <Description>
 This plugin adds a webGui page to view the system log with highlighted lines.  You can enable or disable event highlighting and set your own colors for each event.  You can add your own search string to highlight in the log.
