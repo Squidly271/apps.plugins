@@ -4,12 +4,12 @@
 <PluginURL>https://github.com/dlandon/unassigned.devices/raw/master/unassigned.devices.plg</PluginURL>
 <PluginAuthor>dlandon</PluginAuthor>
 <Beta>True</Beta>
-<MinVer>6.1</MinVer>
+<MinVer>6.0</MinVer>
 <Category>Tools:System</Category>
-<Date>2016-01-16</Date>
+<Date>2016-01-21</Date>
 <Name>Unassigned Devices (updated)</Name>
 <Description>
-This is a version of the unassigned devices that is known to work and is updated for unRAID 6.1.7.
+This is a version of the unassigned devices that is known to work and bugs have been fixed.  It is compatible with any unRAID 6 release including 6.1.7.
 </Description>
 <Support>http://lime-technology.com/forum/index.php?topic=38635.0</Support>
 <Icon>https://github.com/dlandon/apps.plugins/raw/master/unassigned.devices.png</Icon>
